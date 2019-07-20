@@ -1,0 +1,68 @@
+#projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  @media only screen and (min-width: $cut) {
+    width: 80%;
+  }
+}
+
+#resume {
+  .user-details {
+    margin: 0;
+    text-align: left;
+    border-bottom: 1px solid black;
+    h1 {
+      padding-bottom: 10px;
+      margin-bottom: 0;
+    }
+  }
+}
+
+.user-projects {
+  margin: 20px auto;
+  display: flex;
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  h5 {
+    margin: 0;
+  }
+  li {
+    color: $main;
+    font-size: 1.1rem;
+  }
+  p {
+    margin-right: 5px;
+  }
+}
+
+.contents-right {
+  @media only screen and (min-width: $cut) {
+    flex-basis: 70%;
+  }
+  h4 {
+    margin: 0;
+    padding-top: 0;
+    line-height: 35px;
+  }
+  ul {
+    margin-top: 0;
+  }
+}
+
+.contents-left {
+  @media only screen and (min-width: $cut) {
+    flex-basis: 30%;
+  }
+  h3 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
