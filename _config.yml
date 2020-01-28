@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>phpとvbaで業務システムの開発・保守を経験。コーディングだけでなくインフラ設計や、システムへの機能追加要望に対して顧客と相談をし要件をまとめる作業も行う。</p>"
+resume_header_intro: "<p>プログラマーとして業務システムの開発・保守・テスト工程を3年ほど経験。平日夜間や休日にも自己学習を行うことによって幅広い知識を身につけたことにより、プログラムの実装以外にもサーバ保守・インフラ設計・顧客折衝なども担当するようになる。現在はサーバサイドプログラムとインフラ構築を担当しており技術面でプロジェクトをリードしている。</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
