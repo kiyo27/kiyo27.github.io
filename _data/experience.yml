@@ -10,7 +10,7 @@
   duration: 8, 2019  &mdash; Present
   summary: 研修受講者・研修契約企業の一覧を管理するツールの開発/保守.<ul><li>Excelをユーザインターフェースにしてシステム開発</li><li>Access設計/実装</li></ul>環境：access, excel, vba
 
-- company: 人材系企業にて営業データ集計ツールの保守
+- company: 人材系企業にて営業データレポーティングツールの保守
   position: backend engineer
   duration: 7, 2019  &mdash; Present
   summary: 営業データが記載されたcsvファイルをAccessを使って読み込み/集計しExcelファイルに結果を出力.<ul><li>accessのクエリを解析し業務ロジックを修正</li><li>vbaのコードを解析し業務ロジックを修正</ul>環境：access, excel, vba
