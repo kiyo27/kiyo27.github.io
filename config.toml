@@ -1,0 +1,35 @@
+baseURL = "https://kiyo27.github.io/"
+languageCode = "ja"
+title = "kiyo27's blog"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "kiyo27"
+  avatar = "/images/top.png"
+  description = "The importance of being idle."
+  github = "kiyo27"
+  twitter = "puggdrasill"
+  url = "https://kiyo27.github.io/"
+  keywords = "blog, google analytics"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  location = "Japan"
+
+  [[params.links]]
+    title = "Qiita"
+    href = "https://qiita.com/kiyo27"
+    icon = "/images/qiita.png"
+
+  [[params.links]]
+     title = "note"
+     href = "https://note.com/kiyo27"
+     icon = "/images/note.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
