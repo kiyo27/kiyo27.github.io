@@ -4,7 +4,7 @@ date: 2021-12-21T01:13:31+09:00
 draft: false
 summary: "The achievement of completing all 11 AWS certifications"
 tags: [aws]
-cover: /images/ogp/all-aws-certifications-ogp.png
+cover: /images/ogp/all-aws-certifications-twitter-card.png
 ---
 
 # The achievement of completing all 11 AWS certifications
