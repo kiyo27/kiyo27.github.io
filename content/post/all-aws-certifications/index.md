@@ -2,9 +2,9 @@
 title: "AWS認定全冠(11冠)達成"
 date: 2021-12-21T01:13:31+09:00
 draft: false
-summary: "The all 11 AWS certifications"
+summary: "The achievement of completing all 11 AWS certifications"
 tags: [aws]
-cover: /images/ogp/all-aws-certifications.png
+cover: /images/ogp/all-aws-certifications-ogp.png
 ---
 
 # The achievement of completing all 11 AWS certifications
