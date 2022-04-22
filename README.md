@@ -1,7 +1,11 @@
+# kiyo27 blog
 
-サイトジェネレーター: https://gohugo.io/
-テーマ:https://github.com/MeiK2333/github-style
-デプロイ:https://gohugo.io/hosting-and-deployment/hosting-on-github/
+![example branch parameter](https://github.com/kiyo27/kiyo27.github.io/actions/workflows/gh-pages.yaml/badge.svg)
+
+| key | value |
+| --- | -- |
+| site generator | https://gohugo.io/ |
+| theme | https://github.com/alex-shpak/hugo-book |
 
 開発サーバ起動
 
