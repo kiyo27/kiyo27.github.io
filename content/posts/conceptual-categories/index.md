@@ -1,7 +1,8 @@
 ---
 title: "Conceptual Categories"
 date: 2022-05-02T02:12:43+09:00
-
+categories:
+    - devops
 ---
 [A Survey of DevOps Concepts and Challenges](https://arxiv.org/pdf/1909.05409.pdf) の内容をまとめていく。まずは conceptual categories から。
 

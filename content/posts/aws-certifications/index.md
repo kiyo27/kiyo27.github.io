@@ -2,7 +2,7 @@
 date: 2021-12-21T01:13:31+09:00
 title: AWS認定全冠(11冠)達成
 draft: false
-tags:
+categories:
   - aws
 ---
 

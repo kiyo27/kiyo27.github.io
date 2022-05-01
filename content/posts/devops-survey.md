@@ -1,8 +1,7 @@
 ---
 title: "Devops おすすめ論文: A Survey of DevOps Concepts and Challenges"
 date: 2022-04-27T00:43:47+09:00
-tags:
-    - survey
+categories:
     - devops
 ---
 

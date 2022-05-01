@@ -1,7 +1,7 @@
 ---
 title: '"Quick Call": リモートワークが上手い人の働き方'
 date: 2022-04-28T00:15:37+09:00
-tags:
+categories:
     - productivity
 ---
 
