@@ -12,3 +12,6 @@ hasCJKLanguage = true
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
 
+[security] 
+[security.exec]
+allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^code']
