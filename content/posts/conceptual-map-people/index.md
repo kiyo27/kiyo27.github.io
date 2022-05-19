@@ -3,7 +3,7 @@ title: "People: A Survey of DevOps Concepts and Challenges"
 date: 2022-05-18T01:38:53+09:00
 # bookComments: false
 # bookSearchExclude: false
-tags:
+categories:
     - devops
 ---
 
