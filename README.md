@@ -7,6 +7,21 @@
 | site generator | https://gohugo.io/ |
 | theme | https://github.com/alex-shpak/hugo-book |
 
+## セットアップ
+
+プロジェクトをクローン
+
+```
+git clone git@github.com:kiyo27/kiyo27.github.io.git
+```
+
+サブモジュールをセットアップ
+
+```
+$ git submodule init
+$ git submodule update
+```
+
 新しい記事を作成(vscode で開く)
 
 ```
